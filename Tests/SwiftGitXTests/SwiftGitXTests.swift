@@ -155,6 +155,6 @@ struct SwiftGitXRuntimeTests {
         let version = SwiftGitXRuntime.libgit2Version
 
         // Check if the version is valid
-        #expect(version == "1.9.0")
+        #expect(version == "1.9.7")
     }
 }
